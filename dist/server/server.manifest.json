@@ -1,0 +1,35 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/card.js": "components/card.js",
+    "components/carousel.js": "components/carousel.js",
+    "components/logo.js": "components/logo.js",
+    "components/navbar.js": "components/navbar.js",
+    "components/right-bar.js": "components/right-bar.js",
+    "components/selected.js": "components/selected.js",
+    "pages/Create.js": "pages/Create.js",
+    "pages/Men.js": "pages/Men.js",
+    "pages/Women.js": "pages/Women.js",
+    "pages/employees/About.js": "pages/employees/About.js",
+    "pages/employees/_id.js": "pages/employees/_id.js",
+    "pages/index.js": "pages/index.js",
+    "pages/test.js": "pages/test.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/card.js": "components/card.js.map",
+    "components/carousel.js": "components/carousel.js.map",
+    "components/logo.js": "components/logo.js.map",
+    "components/navbar.js": "components/navbar.js.map",
+    "components/right-bar.js": "components/right-bar.js.map",
+    "components/selected.js": "components/selected.js.map",
+    "pages/Create.js": "pages/Create.js.map",
+    "pages/Men.js": "pages/Men.js.map",
+    "pages/Women.js": "pages/Women.js.map",
+    "pages/employees/About.js": "pages/employees/About.js.map",
+    "pages/employees/_id.js": "pages/employees/_id.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/test.js": "pages/test.js.map",
+    "server.js": "server.js.map"
+  }
+}
